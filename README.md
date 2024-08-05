@@ -13,4 +13,7 @@ Hotel Booking Web App- https://github.com/arleaf/hotel_booking
 
 ## Video Demo
 To see the final presentation for this application, please view here:
-In depth demo on Rooms API here: https://www.loom.com/share/014f6052c4144d6b81b1f0703a3f7a12
+https://www.loom.com/share/da56beced3f3406181bd3016187d96af
+
+In depth demo on Rooms API here: 
+https://www.loom.com/share/014f6052c4144d6b81b1f0703a3f7a12
